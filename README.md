@@ -1,22 +1,29 @@
 Cyber security Expert :
-https://en.m.wikipedia.org/wiki/Martin_Hellman
-AI Expert
-https://en.m.wikipedia.org/wiki/Andrew_Ng
+Books :
+Grey Hat Python Justin SEITZ : Page 1 to 10 Intro. 
+Silence of wire : Page 1 to 10 Intro. 
+Metspolit by HD Moore : Page 1 to 10 Intro
+Web Penetration with Kali by Lakhani and Muniz : Page 1 to 12 : Intro, Credits, Review. 
+Practical Forensic Engineering : Page 1 to 10 Intro. 
+Python for System Engineering, Forensics : Page 1 to 10 intro. 
 
-The transformer is a deep learning architecture that was developed by researchers at Google and is based on the multi-head attention mechanism, which was proposed in the 2017 paper "Attention Is All You Need".
 
-Text is converted to numerical representations called tokens, and each token is converted into a vector via lookup from a word embedding table.[1] At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism, allowing the signal for key tokens to be amplified and less important tokens to be diminished.
-Source : 
-https://en.m.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
+Large Language Model by Chang -Shing Perng : Page 1 : Intro
 
-Contact : Shankyedtech23@gmail.com
-Till 18/4/25
-1) AI, ML, Analytics Training. 
-2) IELTS, Duolingo, English  Training. 
-3) Maths Coaching
 
-ich bin shanky tyagi. 
-je suis shanky tyagi
-Soy Shanky Tyagi
+contact : shankyedtech23@gmail.com
+Till 22/4/25 
+1) English for IELTS, SPEAKING, Duolingo coaching, 
+2) AI and Analytics Training. 
+3) Mathematics Class 1 to Graduation.
 
-Guess the meaning of word of year 2024 : Brain rot? ( Next Day Dairy)
+
+
+goblin mode:
+This term was chosen after a public vote, marking the first time in the dictionary's history that the Word of the Year was selected by the public. "Goblin mode" describes unapologetically self-indulgent, lazy, slovenly, or greedy behavior, often seen as a rejection of social norms and expectations.
+
+I am ram. I am sia. he is ram. She is sia .
+
+german : Ich bin Ram. Ich bin Sia. Er ist Ram. Sie ist Sia.
+French : Je suis bélier. Je suis sia. Il est bélier. Elle est sia.
+Spanish  : Yo soy Ram. Yo soy Sia. Él es Ram. Ella es Sia.
